@@ -1,2 +1,3 @@
-# ghostmemo
-### user friendly encrpytion for ios devices
+#ghostmemo
+##user friendly encrpytion for ios devices
+
