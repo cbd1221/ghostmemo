@@ -24,10 +24,11 @@
       </ol>
     Okay, I admit you likely need a few other minor things. 
     <li>ghostmemo requires Face ID to generate/use encryption keys - this is an added layer security for an app designed to be easy to use and simple to understand.</li>
-    <li>When you launch the app, it will request acceess to Face ID - if you do not approve this, it will not allow you to encrypt any of your memos, as you would be unable to decrypt them without user authentication and the private key</li>
-    Once you've used Face ID to enter the app, you should navigate to the account page (the top-left icon) and hit "Generate Encryption Keys"
-    With your keys generated successfully, the rest of the heavy lifting is done by ghostmemo itself. The home screen allows for you to create/edit new          memos and their editor has simple "encrypt" and "decrypt" buttons. It feels important to note that biometric authenticaton is not required to encrypt,       but is required to decrypt. 
-      From here on out, everything should sort of be on auto-pilot. You should never <b>have</b> to generate new encryption keys, and doing so will make any previously encrypted memos unreadable. <em>However</em>, rotating encryption keys several times a year (or more) is a good habit.
+    <li>When you launch the app, it will request acceess to Face ID - if you do not approve this, it will not allow you to encrypt any of your memos, as 	you would be unable to decrypt them without user authentication and the private key</li>
+	Once you've used Face ID to enter the app, you should navigate to the account page (the top-left icon) and hit "Generate Encryption Keys"
+	With your keys generated successfully, the rest of the heavy lifting is done by ghostmemo itself. The home screen allows for you to create/edit 	new memos and their editor has simple "encrypt" and "decrypt" buttons. It feels important to note that biometric authenticaton is not required to 	encrypt, but is required to decrypt. 
+	  
+From here on out, everything should sort of be on auto-pilot. You should never <b>have</b> to generate new encryption keys, and doing so will make 	any previously encrypted memos unreadable. <em>However</em>, rotating encryption keys several times a year (or more) is a good habit.
     </p>
   </div>
   <div class="styleguide">
@@ -37,8 +38,9 @@
 	  <div align="center">
 		<img src="bgColor.png" width="200" align="center"/> 
 	  </div>
-Additionally, the iOS text formatting keyboard can also be accessed by navigating down through the submenu as shown in the images below. This allows for a rich set of features, such as font selection, text formatting and styling, among other features. <br></br>
-	  By selecting "format" in the initial context menu and then selecting "more", you are able to bring up a more fully featured keyboard to style your text. ghostmemo stores text in a form of attributed string, allowing your styling and formatting to remain even after being passed through multiple layers of encryption. 
+Additionally, the iOS text formatting keyboard can also be accessed by navigating down through the submenu as shown in the images below. This allows for a rich set of features, such as font selection, text formatting and styling, among other features. 
+	  
+By selecting "format" in the initial context menu and then selecting "more", you are able to bring up a more fully featured keyboard to style your text. ghostmemo stores text in a form of attributed string, allowing your styling and formatting to remain even after being passed through multiple layers of encryption. 
 <div class="imageDiv" align="center" >
  <img src="1contextMenu.png" width="200" /> &nbsp;&nbsp;&nbsp;
  <img src="2submenu.png" width="200" />&nbsp;&nbsp;&nbsp;
