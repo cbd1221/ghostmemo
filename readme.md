@@ -38,7 +38,20 @@
   <div class="styleguide">
     <h2 align="center">Rich Text Features</h2>
     <p>
-      ghostmemo's text editor offers multiple layers of customization. In the toolbar, the pen icon allows users to alter the background color of the editor quickly. Additionally, the iOS text formatting keyboard can also be accessed by navigating down through the submenu as shown in the images below. This allows for a rich set of features, such as font selection, text formatting and styling, among other features. 
+      ghostmemo's text editor offers multiple layers of customization. In the toolbar, the pen icon allows users to alter the background color of the editor quickly. <br></br>
+	  <div align="center">
+		<img src="bgColor.png" width="200" align="center"/> 
+	  </div>
+Additionally, the iOS text formatting keyboard can also be accessed by navigating down through the submenu as shown in the images below. This allows for a rich set of features, such as font selection, text formatting and styling, among other features. <br></br>
+	  By selecting "format" in the initial context menu and then selecting "more", you are able to bring up a more fully featured keyboard to style your text. ghostmemo stores text in a form of attributed string, allowing your styling and formatting to remain even after being passed through multiple layers of encryption. 
+	  <br></br>
+<div class="imageDiv" align="center" >
+ <img src="1contextMenu.png" width="200" /> &nbsp;&nbsp;&nbsp;
+ <img src="2submenu.png" width="200" />&nbsp;&nbsp;&nbsp;
+ <img src="3formatKeyboard.png" width="200" />&nbsp;&nbsp;&nbsp;
+ <img src="4fontSelection.png" width="200" />&nbsp;&nbsp;&nbsp;
+
+</div>
     </p>
   </div>
 </html>
