@@ -50,4 +50,10 @@ By selecting "format" in the initial context menu and then selecting "more", you
 </div>
     </p>
   </div>
+  <div class="privacy policy" id="privacy_policy">
+	  <h3>Privacy Policy</h3>
+	  <p align="left">
+		  ghostmemo does not collect any user data or access the internet in any way. ghostmemo will never gather, monitor, or distribute user data.
+	  </p>
+  </div>
 </html>
