@@ -1,6 +1,6 @@
 <html>
   <div class="title" align="center">
-    <img src="ghostmemo_logo_alpha.png" width="100" height="100" /> 
+    <img src="gm+bg_clear.png" width="100" height="100" /> 
     <h1>ghostmemo</h1>
     <p>user friendly encryption for ios devices</p>
   </div>
